@@ -1,9 +1,13 @@
 _repo: Consecrated-Womanhood-A-Sermon-Preached-in-the-First-Congregational-Church-Portland-Oregon_49427
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Cobbe, Frances Power
     gutenberg_agent_id: '45332'
     url: http://www.gutenberg.org/2009/agents/45332
+covers:
+- cover_type: archival
+  image_path: 49427-h/images/cover.jpg
 creator:
   author:
     agent_name: Marvin, Frederic Rowland
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '39727'
     url: http://www.gutenberg.org/2009/agents/39727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49427#Consecrated-Womanhood-A-Sermon-Preached-in-the-First-Congregational-Church-Portland-Oregon
 gutenberg_issued: '2015-07-12'
 gutenberg_type: Text
 identifiers:
